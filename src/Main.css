@@ -1,0 +1,38 @@
+.heading{
+    color: aquamarine;
+    margin-top: 15%;
+}
+h1{
+    color:chartreuse;
+    font-size: 60px;
+    
+}
+
+.button-increment{
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 10px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    
+}
+.button-decrement{
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}
+.button-reset{
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+}
